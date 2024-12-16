@@ -1,19 +1,16 @@
-<h1>Hi, I'm Jinney! <br/><a href="https://github.com/jinney-hong/portfolio">
+<h1>Hi, I'm Jinney! <br/>
 
 <h2>👩🏻‍💻 Data Projects:</h2>
+<ul>
+  <li><b>Impact of Company Funding on 2023 Layoffs</b>
+    - <a href="https://github.com/jinney-hong/203-LayoffsProject-R" target="_blank">Practicing R and regression analysis</a>
+  </li>
+</ul>
 
-- <b>Impact of Company Funding on 2023 Layoffs</b>
-  - [Praciting R and regression analysis](https://github.com/jinney-hong/203-LayoffsProject-R)
+<h2>🔭 I’m currently working on...</h2>
+<p><b>Exploring data engineering with Dagster!</b> I'm focused on developing and optimizing data pipelines for efficient and scalable data processing. It's been an exciting challenge to see the impact of these systems in action!</p>
 
-
-
-<h2> 🔭 I’m currently working on ...</h2>
-- <b> exploring data engineering with Dagster! I’m focused on developing and optimizing data pipelines for efficient and scalable data processing. It’s been an exciting challenge to see the impact of these systems in action!
-</b>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/jinney-hong
+<h2>🤳 Connect with me:</h2>
+<a href="https://linkedin.com/in/jinney-hong" target="_blank">
+  <img align="left" alt="Jinney Hong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
