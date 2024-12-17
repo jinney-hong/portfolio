@@ -2,8 +2,8 @@
 
 <h2>👩🏻‍💻 Data Projects:</h2>
 <ul>
-  <li><b>Impact of Company Funding on 2023 Layoffs</b>
-    - <a href="https://github.com/jinney-hong/203-LayoffsProject-R" target="_blank">Practicing R and regression analysis</a>
+  <li><b>Linear Regression on 2023 Layoffs</b>
+    - <a href="https://github.com/jinney-hong/portfolio/tree/main/Linear%20Regression%20on%202023%20Layoffs" target="_blank">Practicing R and regression analysis</a>
   </li>
 </ul>
 
