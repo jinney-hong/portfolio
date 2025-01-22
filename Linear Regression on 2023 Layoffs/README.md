@@ -17,6 +17,7 @@ This group project analyzes the impact of company funding, growth stage, and ind
 
 <h2>Project Guide:</h2>
 <ol>
+    <li><a href="https://statsig.substack.com/p/mo-money-mo-problems-an-analysis" target="_blank">Check out published article!</a></li>
     <li><a href="https://github.com/jinney-hong/203-LayoffsProject-R/blob/main/Model.Rmd" target="_blank">R Code</a></li>
     <li><a href="https://github.com/jinney-hong/portfolio/blob/main/Linear%20Regression%20on%202023%20Layoffs/lab2.pdf" target="_blank">Written Report</a></li>
 </ol>
