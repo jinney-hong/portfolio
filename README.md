@@ -8,7 +8,13 @@
 </ul>
 
 <h2>🔭 I’m currently working on...</h2>
-<p><b>Exploring data engineering with Dagster!</b> I'm focused on developing and optimizing data pipelines for efficient and scalable data processing. It's been an exciting challenge to see the impact of these systems in action!</p>
+<ul>
+  <li><b>Exploring data engineering with Dagster!</b> I'm focused on developing and optimizing data pipelines for efficient and scalable data processing. It's been an exciting challenge to see the impact of these systems in action!
+  </li>
+  <li><b>Machine learning projects</b> and articles through my coursework
+  </li>
+</ul>
+
 
 <h2>🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/jinney-hong" target="_blank">
