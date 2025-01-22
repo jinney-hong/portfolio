@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Data Projects:</h2>
 <ul>
   <li><b>Linear Regression on 2023 Layoffs</b>
-    - <a href="https://github.com/jinney-hong/portfolio/tree/main/Linear%20Regression%20on%202023%20Layoffs" target="_blank">Practicing R and regression analysis</a>
+    - <a href="https://github.com/jinney-hong/portfolio/tree/main/Linear%20Regression%20on%202023%20Layoffs" target="_blank"> R and regression analysis</a>
   </li>
 </ul>
 
