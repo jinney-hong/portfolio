@@ -15,6 +15,22 @@
   </li>
 </ul>
 
+<h2>Previous Projects</h2>
+<ul>
+  <li><b>Development of E-Commerce Platform and Content Creation as a PM/Brand Manager</b>
+    <ul>
+      <li><b><a href="https://spigenbeauty.com" target="_blank">Check out Spigen Beauty!</a></b></li>
+      <li><b><a href="https://serumkind.co.kr/?srsltid=AfmBOooHd0T1Tbo0guGd-i7DxmjZR51lSH3v07i6cqUtsI6ahFJbHitm" target="_blank">Check out SerumKind!</a></b></li>
+    </ul>
+  </li>
+  <li><b>Project Director of Dopamint (now IPX Corp)</b>
+    <ul>
+      <li><b><a href="https://www.ipxcorp.com/" target="_blank">Link</a></b></li>
+      <li>Led a team to develop NFT and AR-based digital collectibles and recognized as a finalist in the 10th Chung Ju-yung Startup Competition (90:1 acceptance rate)</li>
+      <li>Company acquired by LINE Friends</li>
+    </ul>
+  </li>
+</ul>
 
 <h2>🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/jinney-hong" target="_blank">
