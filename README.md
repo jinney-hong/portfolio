@@ -9,10 +9,10 @@
 
 <h2>🔭 I’m currently working on...</h2>
 <ul>
-  <li><b>Exploring data engineering with Dagster!</b> I'm focused on developing and optimizing data pipelines for efficient and scalable data processing. It's been an exciting challenge to see the impact of these systems in action!
-  </li>
-  <li><b>Machine learning projects</b> and articles through my coursework
-  </li>
+  <li><b>Data Analysis and Exploration using SQL</b> - I'll be updating this project soon</li>
+  <li><b>Machine learning projects</b> and articles through my coursework</li>
+  <li><b>Article:</b> <a href="https://statsig.substack.com/p/mo-money-mo-problems-an-analysis" target="_blank">Mo Money Mo Problems: An Analysis</a></li>
+  <li><b>Article:</b> <a href="https://statsig.substack.com/publish/post/155922263" target="_blank">Understanding Axes and Dimensions in Numpy</a></li>
 </ul>
 
 <h2>Previous Projects</h2>
