@@ -12,7 +12,7 @@
   <li><b>Data Analysis and Exploration using SQL</b> - I'll be updating this project soon</li>
   <li><b>Machine learning projects</b> and articles through my coursework</li>
   <li><b>Article:</b> <a href="https://statsig.substack.com/p/mo-money-mo-problems-an-analysis" target="_blank">Mo Money Mo Problems: An Analysis</a></li>
-  <li><b>Article:</b> <a href="https://statsig.substack.com/publish/post/155922263" target="_blank">Understanding Axes and Dimensions in Numpy</a></li>
+  <li><b>Article:</b> <a href="https://statsig.substack.com/p/understanding-axes-and-dimensions" target="_blank">Understanding Axes and Dimensions in Numpy</a></li>
 </ul>
 
 <h2>Previous Projects</h2>
